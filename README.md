@@ -46,10 +46,9 @@ Automatiza las siguientes tareas:
 ## 📷 Evidencias
 
 Las ejecuciones de ambos scripts fueron documentadas en el archivo:
+Evidencias_Hands-on_2_Castellanos_Lobo_Sofia.pdf
 
-- [`evidencias/evidencias_ejecucion.pdf`](./evidencias/evidencias_ejecucion.pdf)
-
-Este PDF incluye capturas de pantalla tomadas desde la consola `CMD` y/o `PowerShell`, mostrando la ejecución y resultados de cada script paso a paso.
+Este PDF incluye capturas de pantalla tomadas desde la consola `CMD`, mostrando la ejecución y resultados de cada script paso a paso.
 
 ---
 
