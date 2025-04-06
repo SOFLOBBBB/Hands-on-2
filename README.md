@@ -55,6 +55,6 @@ Este PDF incluye capturas de pantalla tomadas desde la consola `CMD` y/o `PowerS
 
 ## 🚀 Autor
 
-- **Nombre:** [Tu nombre aquí]
-- **Curso:** [Nombre del curso o asignatura]
-- **Profesor(a):** [Nombre del profesor si lo deseas]
+- **Nombre:** Sofia Castellanos Lobo
+- **Curso:** Seminario de Solución de Problemas de Uso, Adaptación y Expl. de Sistemas Operativos
+- **Profesor(a):** JOSE ANTONIO AVINA MENDEZ
